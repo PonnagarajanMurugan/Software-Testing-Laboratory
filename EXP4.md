@@ -1,6 +1,8 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
+
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222040115
+
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -16,6 +18,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 9.	Stop the program.
 
 ### Program:
+
 ```
 x = input("Enter the input: ")
 
@@ -40,37 +43,7 @@ else:
 
 ### Output:
 
-```
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 143
-Not Armstrong Number
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 153
-Armstrong Number
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: -25
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: -10
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: 1
-Armstrong Number
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input:  
-Enter a Positive Integer.
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp4.py"
-Enter the input: sh
-Enter a Positive Integer.
-```
-
-
+![STL EX04 OUTPUT](https://github.com/user-attachments/assets/45333c03-7f85-4238-9903-a1c1e27f12d4)
 
 
 ### Result:
