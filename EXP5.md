@@ -1,12 +1,11 @@
 # Ex.No: 5 check the given number is present in array or not and inspect for failures.
 
-
 # DATE:
 # REGISTER NUMBER :212222040115
 
-
 ### Aim: 
     Write a python program for Binary Search and inspect for failures. 
+
 ### Algorithm: 
     1. Start the program. 
     2. Get the list from the user 
@@ -17,6 +16,7 @@
     7. Stop the program.
 
 ### Program:
+
 ```
 def binary_search(arr, x):
     low = 0
@@ -55,39 +55,8 @@ except ValueError:
 
 ```
 ### Output:
-```
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 2
-Element is present at index 0
 
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 5
-Element is not present in array
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 10
-Element is present at index 3
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: ddf
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched:  
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: %
-Enter a valid input!
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 20
-Element is not present in array
-
-PS C:\Users\SEC\Desktop\web\exp2> python -u "c:\Users\SEC\Desktop\web\exp2\exp5.py"
-Enter the element to be searched: 3
-Element is present at index 1
-```
+![STL EX05 OUTPUT](https://github.com/user-attachments/assets/8b56050b-efd5-4ff7-a121-4720bafc1a70)
 
 
 ### Result:
