@@ -1,7 +1,7 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
 ### DATE:                                                                            
-### REGISTER NUMBER : 
+### REGISTER NUMBER : 212222040115
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
 ### Algorithm:
@@ -13,21 +13,35 @@ Write a Python program to check whether the string is Palindrome and generate te
 6. Else, return that it is not a palindrome. 
 7. Stop the program.
 ### Program:
+```
+def Palindrome(string):
+    for i in range(0, int(len(string) / 2)):
+        if string[i] != string[len(string) - i - 1]:
+            return False
+    return True
 
+s = input("Enter a string: ")
+c = 1
 
+for i in s:
+    if not i.isalpha():
+        c = 0
+        break  # Exit the loop if a non-alpha character is found
 
-
-
-
-
-
-
-
-
+if c == 0:
+    print("Enter a valid string")
+else:
+    answer = Palindrome(s)
+    if answer:
+        print("The given string is a palindrome")
+    else:
+        print("The given string is not a palindrome")
+```
 
 ### Output:
 
 
+![image](https://github.com/user-attachments/assets/d799dfb4-7fd4-4838-95d4-666a0817f7cb)
 
 
 
