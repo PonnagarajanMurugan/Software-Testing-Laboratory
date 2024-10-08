@@ -2,6 +2,7 @@
  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222040115
+
 ### AIM: 
 Write a python program to check the number is prime or not and inspect for failures.
  
@@ -53,7 +54,7 @@ else:
 
 ### Output:
 
-![bfs]()
+![STL EX03 OUTPUT](https://github.com/user-attachments/assets/857283d8-57fe-4321-8e96-c9387ef6e6d0)
 
 
 ### Result:
