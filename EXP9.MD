@@ -1,4 +1,4 @@
-# Ex.No: 9  Pytest program for Sum of Digits 
+# Ex.No: 13  Pytest program for Sum of Digits 
 
 ### DATE: 29.10.2024                                                                           
 ### REGISTER NUMBER : 2122220400115
