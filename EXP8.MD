@@ -151,12 +151,27 @@ trends followed by IT industries including software development methodologies an
 ### Test cases for opening bank account:
 ## Input parameters checking: 
 ```
-- Name -Date of Birth - Photo -Address Proof -Identity proof -Introducers (if applicable) - PAN card -Initial deposit -Whether checkbook / ATM card / Online banking facilities are needed or not -Customer signature 
+- Name 
+- Date of Birth 
+- Photo 
+- Address Proof 
+- Identity proof 
+- Introducers (if applicable) 
+- PAN card 
+- Initial deposit 
+- Whether checkbook / ATM card / Online banking facilities are needed or not 
+- Customer signature 
 ```
 
 ### Type of account: 
 ```
-- Savings account -Salary account -Joint account - Current account - Secondary account -RD account -Account for a company
+- Savings account 
+- Salary account 
+- Joint account 
+- Current account 
+- Secondary account 
+-RD account 
+-Account for a company
 ```
 
 ### Test cases: 
