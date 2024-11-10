@@ -1,5 +1,5 @@
 # Ex.No: 3 To check the number is prime or not and inspect for failures.
- -
+ 
 ### DATE: 27-08-2024                                                                           
 ### REGISTER NUMBER : 212222040115
 
